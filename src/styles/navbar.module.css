@@ -1,0 +1,10 @@
+
+/* Style for Text displayed on Top of input */
+.navContainer{
+    height: 15vh;
+    color: rgb(48, 4, 90);
+    font-style: oblique;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
