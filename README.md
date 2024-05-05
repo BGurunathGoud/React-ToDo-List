@@ -1,3 +1,28 @@
+# React - ToDo List
+1. It is used to set the daily Tasks of our Choice.
+2. I have used React to develop the frontend of the application and listed some of the Fetched data from API.
+
+## Installation of code in VS Code.
+1. User should download all the project files related to this application.
+2. Install all the dependencies in VS code.
+3. Go to terminal if all packages are installed successfully and API link is there or not.
+4. Set the correct directory path of the application.
+5. Run npm install, because it will download the node modules dependencies.
+6. Run npm start, then the project starts to run on localhost port 3000.
+
+## Functioning of the ToDo List application
+1. User need to open the link of the project on web browser.
+2. Then a TodoList application is displayed.
+3. Here user can see list of todo tasks listed in task container.
+4. User can Modify or Change Task data by clicking on Edit button.
+5. User can Add Task by typing task data in input form and click on Add Data then the data is displayed in below listed task details.
+6. User can also set the task to complete state by clicking on Checkbox.
+7. User can also delete the task by clicking on delete button.
+
+## Deployed Link
+https://66372a0f41207398d5b09265--verdant-malabi-a7d9d1.netlify.app/
+
+***
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
