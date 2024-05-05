@@ -27,7 +27,7 @@ https://66372a0f41207398d5b09265--verdant-malabi-a7d9d1.netlify.app/
 # Folder Structure
 
 ~ToDoList | |
-|--->build----> | |--->node modules----> | |--->favicon.ico | |--->index.html | |--->logo192.png | |--->logo512.png | |--->manifest.json | |--->robots.txt | |--->src--->|--->api--->|--->index.js | | | |--->components---->|-->App.js | | |-->index.js | | |-->Navbar.js | | | |--->styles---->|-->home.module.css | | |-->nav.module.css | | | |--->views---->|--->Home.js | | |--->index.js | |--->App.css | |--->index.css | |--->index.js |-->.gitignore |--> package-lock.json |-->package.json |--> README.md
+|--->build----> ||--->static--->|--->css | | |--->js | | | |--->node modules----> | |--->favicon.ico | |--->index.html | |--->logo192.png | |--->logo512.png | |--->manifest.json | |--->robots.txt | |--->src--->|--->api--->|--->index.js | | | |--->components---->|-->App.js | | |-->index.js | | |-->Navbar.js | | | |--->styles---->|-->home.module.css | | |-->nav.module.css | | | |--->views---->|--->Home.js | | |--->index.js | |--->App.css | |--->index.css | |--->index.js |-->.gitignore |--> package-lock.json |-->package.json |--> README.md
 
 ****
 # Getting Started with Create React App
